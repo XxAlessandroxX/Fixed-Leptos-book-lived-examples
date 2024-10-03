@@ -1,4 +1,7 @@
 add the dependencies to cargo.toml:
+
+
+
 leptos = { version = "0.6.15", features = ["csr"] }
 console_log = "0.2"
 log = "0.4"
